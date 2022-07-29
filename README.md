@@ -1,7 +1,7 @@
 # Week 2 Workshop
 This is project for week 2 workshop practice on git & github  
 ## install node using:
-'npm init'  
+'''npm init'''  
 ## run instructions
 nothing  
 ## write a table of weeks for the course, and the course content.
